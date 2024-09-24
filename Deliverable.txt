@@ -1,0 +1,13 @@
+1. .idea, out, src
+2. java.lang, java.util, java.io
+
+3.public class BuddyInfo {
+    
+
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+
+    }
+}
+
+4. "C:\Users\jakes\OneDrive\Desktop\Fall 2024\SYSC 3110\Lab1\out\production\Lab1\BuddyInfo.class"
