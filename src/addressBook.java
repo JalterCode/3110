@@ -6,7 +6,7 @@ public class addressBook {
 
     public addressBook() {
         buddyList = new ArrayList<>();
-    }
+    } //lolol
 
     public void addBuddy(BuddyInfo buddy) { //added from github lol
         if (buddy != null) {
@@ -19,6 +19,10 @@ public class addressBook {
             return buddyList.remove(index);
         }
         return null;
+    }
+
+    public void randomMethod(){
+
     }
 
     public static void main(String[] args) {
