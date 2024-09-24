@@ -8,7 +8,7 @@ public class addressBook {
         buddyList = new ArrayList<>();
     }
 
-    public void addBuddy(BuddyInfo buddy) {
+    public void addBuddy(BuddyInfo buddy) { //added from github lol
         if (buddy != null) {
             buddyList.add(buddy);
         }
